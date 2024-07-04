@@ -5,6 +5,8 @@
 - 📫 How to reach me ...https://linkedin.com/in/kajal-chhikara
 - 😄 Pronouns: ...she/her
 - ⚡ Fact: ...life is not a problem to solve, rather an experience to gain.
+- keep coding you might not solve, but you will learn something for sure.
+- 
 
 <!---
 kajalchhikara1/kajalchhikara1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
