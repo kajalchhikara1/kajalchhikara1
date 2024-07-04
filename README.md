@@ -5,7 +5,7 @@
 - 📫 How to reach me ...https://linkedin.com/in/kajal-chhikara
 - 😄 Pronouns: ...she/her
 - ⚡ Fact: ...life is not a problem to solve, rather an experience to gain.
-- keep coding you might not solve, but you will learn something for sure.
+     keep on brain storming you might not solve it, but you will learn something for sure.
 - 
 
 <!---
